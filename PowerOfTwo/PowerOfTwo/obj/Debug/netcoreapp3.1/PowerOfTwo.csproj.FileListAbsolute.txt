@@ -1,0 +1,14 @@
+C:\Users\naruto\Desktop\BridgeLabz\C#PracticePrograms\FuctionalPrograms\PowerOfTwo\PowerOfTwo\bin\Debug\netcoreapp3.1\PowerOfTwo.exe
+C:\Users\naruto\Desktop\BridgeLabz\C#PracticePrograms\FuctionalPrograms\PowerOfTwo\PowerOfTwo\bin\Debug\netcoreapp3.1\PowerOfTwo.deps.json
+C:\Users\naruto\Desktop\BridgeLabz\C#PracticePrograms\FuctionalPrograms\PowerOfTwo\PowerOfTwo\bin\Debug\netcoreapp3.1\PowerOfTwo.runtimeconfig.json
+C:\Users\naruto\Desktop\BridgeLabz\C#PracticePrograms\FuctionalPrograms\PowerOfTwo\PowerOfTwo\bin\Debug\netcoreapp3.1\PowerOfTwo.runtimeconfig.dev.json
+C:\Users\naruto\Desktop\BridgeLabz\C#PracticePrograms\FuctionalPrograms\PowerOfTwo\PowerOfTwo\bin\Debug\netcoreapp3.1\PowerOfTwo.dll
+C:\Users\naruto\Desktop\BridgeLabz\C#PracticePrograms\FuctionalPrograms\PowerOfTwo\PowerOfTwo\bin\Debug\netcoreapp3.1\PowerOfTwo.pdb
+C:\Users\naruto\Desktop\BridgeLabz\C#PracticePrograms\FuctionalPrograms\PowerOfTwo\PowerOfTwo\obj\Debug\netcoreapp3.1\PowerOfTwo.csproj.AssemblyReference.cache
+C:\Users\naruto\Desktop\BridgeLabz\C#PracticePrograms\FuctionalPrograms\PowerOfTwo\PowerOfTwo\obj\Debug\netcoreapp3.1\PowerOfTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naruto\Desktop\BridgeLabz\C#PracticePrograms\FuctionalPrograms\PowerOfTwo\PowerOfTwo\obj\Debug\netcoreapp3.1\PowerOfTwo.AssemblyInfoInputs.cache
+C:\Users\naruto\Desktop\BridgeLabz\C#PracticePrograms\FuctionalPrograms\PowerOfTwo\PowerOfTwo\obj\Debug\netcoreapp3.1\PowerOfTwo.AssemblyInfo.cs
+C:\Users\naruto\Desktop\BridgeLabz\C#PracticePrograms\FuctionalPrograms\PowerOfTwo\PowerOfTwo\obj\Debug\netcoreapp3.1\PowerOfTwo.csproj.CoreCompileInputs.cache
+C:\Users\naruto\Desktop\BridgeLabz\C#PracticePrograms\FuctionalPrograms\PowerOfTwo\PowerOfTwo\obj\Debug\netcoreapp3.1\PowerOfTwo.dll
+C:\Users\naruto\Desktop\BridgeLabz\C#PracticePrograms\FuctionalPrograms\PowerOfTwo\PowerOfTwo\obj\Debug\netcoreapp3.1\PowerOfTwo.pdb
+C:\Users\naruto\Desktop\BridgeLabz\C#PracticePrograms\FuctionalPrograms\PowerOfTwo\PowerOfTwo\obj\Debug\netcoreapp3.1\PowerOfTwo.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlipCoin", "FlipCoin\FlipCoin.csproj", "{87029EDE-44FA-4691-9EBC-C824A538A8C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87029EDE-44FA-4691-9EBC-C824A538A8C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87029EDE-44FA-4691-9EBC-C824A538A8C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87029EDE-44FA-4691-9EBC-C824A538A8C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87029EDE-44FA-4691-9EBC-C824A538A8C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C499D8B3-2E34-4954-9021-AB6EB98F4E19}
+	EndGlobalSection
+EndGlobal

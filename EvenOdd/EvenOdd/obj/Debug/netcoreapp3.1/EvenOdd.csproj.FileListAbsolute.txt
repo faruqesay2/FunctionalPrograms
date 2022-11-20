@@ -1,0 +1,14 @@
+C:\Users\naruto\Desktop\BridgeLabz\C#PracticePrograms\FuctionalPrograms\EvenOdd\EvenOdd\bin\Debug\netcoreapp3.1\EvenOdd.exe
+C:\Users\naruto\Desktop\BridgeLabz\C#PracticePrograms\FuctionalPrograms\EvenOdd\EvenOdd\bin\Debug\netcoreapp3.1\EvenOdd.deps.json
+C:\Users\naruto\Desktop\BridgeLabz\C#PracticePrograms\FuctionalPrograms\EvenOdd\EvenOdd\bin\Debug\netcoreapp3.1\EvenOdd.runtimeconfig.json
+C:\Users\naruto\Desktop\BridgeLabz\C#PracticePrograms\FuctionalPrograms\EvenOdd\EvenOdd\bin\Debug\netcoreapp3.1\EvenOdd.runtimeconfig.dev.json
+C:\Users\naruto\Desktop\BridgeLabz\C#PracticePrograms\FuctionalPrograms\EvenOdd\EvenOdd\bin\Debug\netcoreapp3.1\EvenOdd.dll
+C:\Users\naruto\Desktop\BridgeLabz\C#PracticePrograms\FuctionalPrograms\EvenOdd\EvenOdd\bin\Debug\netcoreapp3.1\EvenOdd.pdb
+C:\Users\naruto\Desktop\BridgeLabz\C#PracticePrograms\FuctionalPrograms\EvenOdd\EvenOdd\obj\Debug\netcoreapp3.1\EvenOdd.csproj.AssemblyReference.cache
+C:\Users\naruto\Desktop\BridgeLabz\C#PracticePrograms\FuctionalPrograms\EvenOdd\EvenOdd\obj\Debug\netcoreapp3.1\EvenOdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naruto\Desktop\BridgeLabz\C#PracticePrograms\FuctionalPrograms\EvenOdd\EvenOdd\obj\Debug\netcoreapp3.1\EvenOdd.AssemblyInfoInputs.cache
+C:\Users\naruto\Desktop\BridgeLabz\C#PracticePrograms\FuctionalPrograms\EvenOdd\EvenOdd\obj\Debug\netcoreapp3.1\EvenOdd.AssemblyInfo.cs
+C:\Users\naruto\Desktop\BridgeLabz\C#PracticePrograms\FuctionalPrograms\EvenOdd\EvenOdd\obj\Debug\netcoreapp3.1\EvenOdd.csproj.CoreCompileInputs.cache
+C:\Users\naruto\Desktop\BridgeLabz\C#PracticePrograms\FuctionalPrograms\EvenOdd\EvenOdd\obj\Debug\netcoreapp3.1\EvenOdd.dll
+C:\Users\naruto\Desktop\BridgeLabz\C#PracticePrograms\FuctionalPrograms\EvenOdd\EvenOdd\obj\Debug\netcoreapp3.1\EvenOdd.pdb
+C:\Users\naruto\Desktop\BridgeLabz\C#PracticePrograms\FuctionalPrograms\EvenOdd\EvenOdd\obj\Debug\netcoreapp3.1\EvenOdd.genruntimeconfig.cache

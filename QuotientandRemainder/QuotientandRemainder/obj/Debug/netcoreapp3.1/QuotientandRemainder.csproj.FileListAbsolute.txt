@@ -1,0 +1,14 @@
+C:\Users\naruto\Desktop\BridgeLabz\C#PracticePrograms\FuctionalPrograms\QuotientandRemainder\QuotientandRemainder\bin\Debug\netcoreapp3.1\QuotientandRemainder.exe
+C:\Users\naruto\Desktop\BridgeLabz\C#PracticePrograms\FuctionalPrograms\QuotientandRemainder\QuotientandRemainder\bin\Debug\netcoreapp3.1\QuotientandRemainder.deps.json
+C:\Users\naruto\Desktop\BridgeLabz\C#PracticePrograms\FuctionalPrograms\QuotientandRemainder\QuotientandRemainder\bin\Debug\netcoreapp3.1\QuotientandRemainder.runtimeconfig.json
+C:\Users\naruto\Desktop\BridgeLabz\C#PracticePrograms\FuctionalPrograms\QuotientandRemainder\QuotientandRemainder\bin\Debug\netcoreapp3.1\QuotientandRemainder.runtimeconfig.dev.json
+C:\Users\naruto\Desktop\BridgeLabz\C#PracticePrograms\FuctionalPrograms\QuotientandRemainder\QuotientandRemainder\bin\Debug\netcoreapp3.1\QuotientandRemainder.dll
+C:\Users\naruto\Desktop\BridgeLabz\C#PracticePrograms\FuctionalPrograms\QuotientandRemainder\QuotientandRemainder\bin\Debug\netcoreapp3.1\QuotientandRemainder.pdb
+C:\Users\naruto\Desktop\BridgeLabz\C#PracticePrograms\FuctionalPrograms\QuotientandRemainder\QuotientandRemainder\obj\Debug\netcoreapp3.1\QuotientandRemainder.csproj.AssemblyReference.cache
+C:\Users\naruto\Desktop\BridgeLabz\C#PracticePrograms\FuctionalPrograms\QuotientandRemainder\QuotientandRemainder\obj\Debug\netcoreapp3.1\QuotientandRemainder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naruto\Desktop\BridgeLabz\C#PracticePrograms\FuctionalPrograms\QuotientandRemainder\QuotientandRemainder\obj\Debug\netcoreapp3.1\QuotientandRemainder.AssemblyInfoInputs.cache
+C:\Users\naruto\Desktop\BridgeLabz\C#PracticePrograms\FuctionalPrograms\QuotientandRemainder\QuotientandRemainder\obj\Debug\netcoreapp3.1\QuotientandRemainder.AssemblyInfo.cs
+C:\Users\naruto\Desktop\BridgeLabz\C#PracticePrograms\FuctionalPrograms\QuotientandRemainder\QuotientandRemainder\obj\Debug\netcoreapp3.1\QuotientandRemainder.csproj.CoreCompileInputs.cache
+C:\Users\naruto\Desktop\BridgeLabz\C#PracticePrograms\FuctionalPrograms\QuotientandRemainder\QuotientandRemainder\obj\Debug\netcoreapp3.1\QuotientandRemainder.dll
+C:\Users\naruto\Desktop\BridgeLabz\C#PracticePrograms\FuctionalPrograms\QuotientandRemainder\QuotientandRemainder\obj\Debug\netcoreapp3.1\QuotientandRemainder.pdb
+C:\Users\naruto\Desktop\BridgeLabz\C#PracticePrograms\FuctionalPrograms\QuotientandRemainder\QuotientandRemainder\obj\Debug\netcoreapp3.1\QuotientandRemainder.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\naruto\Desktop\BridgeLabz\C#PracticePrograms\FuctionalPrograms\HarmonicNumber\HarmonicNumber\bin\Debug\netcoreapp3.1\HarmonicNumber.exe
+C:\Users\naruto\Desktop\BridgeLabz\C#PracticePrograms\FuctionalPrograms\HarmonicNumber\HarmonicNumber\bin\Debug\netcoreapp3.1\HarmonicNumber.deps.json
+C:\Users\naruto\Desktop\BridgeLabz\C#PracticePrograms\FuctionalPrograms\HarmonicNumber\HarmonicNumber\bin\Debug\netcoreapp3.1\HarmonicNumber.runtimeconfig.json
+C:\Users\naruto\Desktop\BridgeLabz\C#PracticePrograms\FuctionalPrograms\HarmonicNumber\HarmonicNumber\bin\Debug\netcoreapp3.1\HarmonicNumber.runtimeconfig.dev.json
+C:\Users\naruto\Desktop\BridgeLabz\C#PracticePrograms\FuctionalPrograms\HarmonicNumber\HarmonicNumber\bin\Debug\netcoreapp3.1\HarmonicNumber.dll
+C:\Users\naruto\Desktop\BridgeLabz\C#PracticePrograms\FuctionalPrograms\HarmonicNumber\HarmonicNumber\bin\Debug\netcoreapp3.1\HarmonicNumber.pdb
+C:\Users\naruto\Desktop\BridgeLabz\C#PracticePrograms\FuctionalPrograms\HarmonicNumber\HarmonicNumber\obj\Debug\netcoreapp3.1\HarmonicNumber.csproj.AssemblyReference.cache
+C:\Users\naruto\Desktop\BridgeLabz\C#PracticePrograms\FuctionalPrograms\HarmonicNumber\HarmonicNumber\obj\Debug\netcoreapp3.1\HarmonicNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naruto\Desktop\BridgeLabz\C#PracticePrograms\FuctionalPrograms\HarmonicNumber\HarmonicNumber\obj\Debug\netcoreapp3.1\HarmonicNumber.AssemblyInfoInputs.cache
+C:\Users\naruto\Desktop\BridgeLabz\C#PracticePrograms\FuctionalPrograms\HarmonicNumber\HarmonicNumber\obj\Debug\netcoreapp3.1\HarmonicNumber.AssemblyInfo.cs
+C:\Users\naruto\Desktop\BridgeLabz\C#PracticePrograms\FuctionalPrograms\HarmonicNumber\HarmonicNumber\obj\Debug\netcoreapp3.1\HarmonicNumber.csproj.CoreCompileInputs.cache
+C:\Users\naruto\Desktop\BridgeLabz\C#PracticePrograms\FuctionalPrograms\HarmonicNumber\HarmonicNumber\obj\Debug\netcoreapp3.1\HarmonicNumber.dll
+C:\Users\naruto\Desktop\BridgeLabz\C#PracticePrograms\FuctionalPrograms\HarmonicNumber\HarmonicNumber\obj\Debug\netcoreapp3.1\HarmonicNumber.pdb
+C:\Users\naruto\Desktop\BridgeLabz\C#PracticePrograms\FuctionalPrograms\HarmonicNumber\HarmonicNumber\obj\Debug\netcoreapp3.1\HarmonicNumber.genruntimeconfig.cache

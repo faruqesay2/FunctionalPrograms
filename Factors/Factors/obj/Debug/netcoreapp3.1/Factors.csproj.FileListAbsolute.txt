@@ -1,0 +1,14 @@
+C:\Users\naruto\Desktop\BridgeLabz\C#PracticePrograms\FuctionalPrograms\Factors\Factors\bin\Debug\netcoreapp3.1\Factors.exe
+C:\Users\naruto\Desktop\BridgeLabz\C#PracticePrograms\FuctionalPrograms\Factors\Factors\bin\Debug\netcoreapp3.1\Factors.deps.json
+C:\Users\naruto\Desktop\BridgeLabz\C#PracticePrograms\FuctionalPrograms\Factors\Factors\bin\Debug\netcoreapp3.1\Factors.runtimeconfig.json
+C:\Users\naruto\Desktop\BridgeLabz\C#PracticePrograms\FuctionalPrograms\Factors\Factors\bin\Debug\netcoreapp3.1\Factors.runtimeconfig.dev.json
+C:\Users\naruto\Desktop\BridgeLabz\C#PracticePrograms\FuctionalPrograms\Factors\Factors\bin\Debug\netcoreapp3.1\Factors.dll
+C:\Users\naruto\Desktop\BridgeLabz\C#PracticePrograms\FuctionalPrograms\Factors\Factors\bin\Debug\netcoreapp3.1\Factors.pdb
+C:\Users\naruto\Desktop\BridgeLabz\C#PracticePrograms\FuctionalPrograms\Factors\Factors\obj\Debug\netcoreapp3.1\Factors.csproj.AssemblyReference.cache
+C:\Users\naruto\Desktop\BridgeLabz\C#PracticePrograms\FuctionalPrograms\Factors\Factors\obj\Debug\netcoreapp3.1\Factors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naruto\Desktop\BridgeLabz\C#PracticePrograms\FuctionalPrograms\Factors\Factors\obj\Debug\netcoreapp3.1\Factors.AssemblyInfoInputs.cache
+C:\Users\naruto\Desktop\BridgeLabz\C#PracticePrograms\FuctionalPrograms\Factors\Factors\obj\Debug\netcoreapp3.1\Factors.AssemblyInfo.cs
+C:\Users\naruto\Desktop\BridgeLabz\C#PracticePrograms\FuctionalPrograms\Factors\Factors\obj\Debug\netcoreapp3.1\Factors.csproj.CoreCompileInputs.cache
+C:\Users\naruto\Desktop\BridgeLabz\C#PracticePrograms\FuctionalPrograms\Factors\Factors\obj\Debug\netcoreapp3.1\Factors.dll
+C:\Users\naruto\Desktop\BridgeLabz\C#PracticePrograms\FuctionalPrograms\Factors\Factors\obj\Debug\netcoreapp3.1\Factors.pdb
+C:\Users\naruto\Desktop\BridgeLabz\C#PracticePrograms\FuctionalPrograms\Factors\Factors\obj\Debug\netcoreapp3.1\Factors.genruntimeconfig.cache
