@@ -5,7 +5,7 @@ namespace EvenOdd
 {
     class program
     {
-        static void Main(string[] args)  //entrance point by which a Java program can be run.
+        static void Main(string[] args)  //entrance point by which a c# program can be run.
         {
             int num1; //creating varibale 
             Console.WriteLine("Enter the number to check odd or even"); //printing 
